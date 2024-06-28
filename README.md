@@ -13,14 +13,14 @@ This repository contains a library of my notes and Jupyter notebooks for the ele
 This repository is organised into the following sections:
 
 1. **Jupyter Notebooks - Capstone Project 2:**
-   This directory contains Jupyter notebooks that explore the second capstone project in Python.
+   this directory contains Jupyter notebooks that explore the second capstone project in Python.
    - [00-Milestone-2-Warmup-Project](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Jupyter%20Notebooks%20-%20Capstone%20Project%202/00-Milestone-2-Warmup-Project.ipynb)
    - [01-Milestone Project 2 - Assignment](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Jupyter%20Notebooks%20-%20Capstone%20Project%202/01-Milestone%20Project%202%20-%20Assignment.ipynb)
    - [02-Milestone Project 2 - Walkthrough Steps Workbook](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Jupyter%20Notebooks%20-%20Capstone%20Project%202/02-Milestone%20Project%202%20-%20Walkthrough%20Steps%20Workbook.ipynb)
    - [03-Milestone Project 2 - Complete Walkthrough Solution](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Jupyter%20Notebooks%20-%20Capstone%20Project%202/03-Milestone%20Project%202%20-%20Complete%20Walkthrough%20Solution.ipynb)
 
 2. **Notes on Videos:**
-   This section contains PDF notes summarising the key points from the video lectures in Module 11.
+   this section contains PDF notes summarising the key points from the video lectures in Module 11.
    - [1 of 12 Introduction to Milestone Project 2 Section Warmup](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Notes%20on%20Videos%20-%20Module%2011%20Python%20Capstone%20Project%202/1%20of%2012%20Introduction%20to%20Milestone%20Project%202%20Section%20Warmup.pdf)
    - [2 of 12 Card Class](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Notes%20on%20Videos%20-%20Module%2011%20Python%20Capstone%20Project%202/2%20of%2012%20Card%20Class.pdf)
    - [3 of 12 Deck Class](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Notes%20on%20Videos%20-%20Module%2011%20Python%20Capstone%20Project%202/3%20of%2012%20Deck%20Class.pdf)
@@ -35,7 +35,7 @@ This repository is organised into the following sections:
    - [12 of 12 Solutions Walkthrough - Final Gameplay Script](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Notes%20on%20Videos%20-%20Module%2011%20Python%20Capstone%20Project%202/12%20of%2012%20Solutions%20Walkthrough%20-%20Final%20Gameplay%20Script.pdf)
 
 3. **Slides:**
-   Slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Capstone%20Project%202%20Slides.pdf).
+   slides from this module are [here](https://github.com/franpanteli/Python-Bootcamp-Module-11-Python-Capstone-Project-2/blob/main/Capstone%20Project%202%20Slides.pdf).
 
 ### To Clone This Repository
 ```
